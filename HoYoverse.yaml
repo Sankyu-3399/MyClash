@@ -1,4 +1,5 @@
-  - DOMAIN-SUFFIX,genshinimpact.com
+payload:
+- DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN-SUFFIX,honkaiimpact3.com
   - DOMAIN-SUFFIX,honkaistarrail.com
   - DOMAIN-SUFFIX,hoyo.link
