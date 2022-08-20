@@ -1,6 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,clentapi.ipip.net
-  - DOMAIN-SUFFIX,v4.ipip.net
-  - DOMAIN-SUFFIX,v6.ipip.net
-  - DOMAIN-SUFFIX,ip.sb
-  - DOMAIN-SUFFIX,api-ipv4.ip.sb
