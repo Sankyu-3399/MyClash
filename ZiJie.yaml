@@ -1,4 +1,3 @@
-payload:
   - DOMAIN-KEYWORD,aweme
   - DOMAIN-KEYWORD,ixigua.com
   - DOMAIN-KEYWORD,ixiguavideo.com
@@ -17,3 +16,6 @@ payload:
   - DOMAIN-SUFFIX,v6.ipip.net
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,api-ipv4.ip.sb
+  - DOMAIN-SUFFIX,grpc.biliapi.net
+  - DOMAIN-SUFFIX,api.bilibili.com
+  - DOMAIN-SUFFIX,passport.bilibili.com
