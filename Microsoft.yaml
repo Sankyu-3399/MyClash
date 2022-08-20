@@ -1,4 +1,5 @@
-  - DOMAIN-SUFFIX,1drv.ms
+payload:
+- DOMAIN-SUFFIX,1drv.ms
   - DOMAIN-SUFFIX,a-msedge.net
   - DOMAIN-SUFFIX,a1158.g.akamai.net
   - DOMAIN-SUFFIX,a122.dscg3.akamai.net
