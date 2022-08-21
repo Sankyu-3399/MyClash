@@ -1,4 +1,5 @@
-  #字节跳动
+payload:
+    #字节跳动
   - DOMAIN-KEYWORD,aweme
   - DOMAIN-KEYWORD,ixigua.com
   - DOMAIN-KEYWORD,ixiguavideo.com
@@ -12,7 +13,7 @@
   - DOMAIN-SUFFIX,zjcdn.com
   - DOMAIN-SUFFIX,pandora.com
   - DOMAIN-SUFFIX,dig.bdurl.net
-  #原神
+    #原神
   - DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN-SUFFIX,honkaiimpact3.com
   - DOMAIN-SUFFIX,honkaistarrail.com
@@ -20,7 +21,7 @@
   - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,hoyoverse.com
   - DOMAIN-SUFFIX,n0vadesktop.com
-  #BiliBili
+    #BiliBili
   - DOMAIN,apm-misaka.biliapi.net
   - DOMAIN,p-bstarstatic.akamaized.net
   - DOMAIN,p.bstarstatic.com
@@ -152,13 +153,13 @@
   - PROCESS-NAME,com.bilibili.comic.intl
   - PROCESS-NAME,tv.danmaku.bili
   - PROCESS-NAME,tv.danmaku.bilibilihd
-  #测速
+    #测速
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,speed.cloudflare.com
   - DOMAIN-SUFFIX,speed.dler.io
   - DOMAIN-KEYWORD,speedtest
-  #IP测试
+    #IP测试
   - DOMAIN-SUFFIX,clentapi.ipip.net
   - DOMAIN-SUFFIX,v4.ipip.net
   - DOMAIN-SUFFIX,v6.ipip.net
