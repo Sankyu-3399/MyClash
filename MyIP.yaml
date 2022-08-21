@@ -20,7 +20,7 @@ payload:
   - DOMAIN-SUFFIX,speed.dler.io
   - DOMAIN-KEYWORD,speedtest
   #IP测试
-  - DOMAIN-SUFFIX,clentapi.ipip.net
+  - DOMAIN-SUFFIX,clientapi.ipip.net
   - DOMAIN-SUFFIX,v4.ipip.net
   - DOMAIN-SUFFIX,v6.ipip.net
   - DOMAIN-SUFFIX,ip.sb
