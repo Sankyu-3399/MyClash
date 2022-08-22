@@ -15,15 +15,9 @@ payload:
   - DOMAIN-SUFFIX,dig.bdurl.net
     #米游社
   - DOMAIN-SUFFIX,mihoyo.com
-  - DOMAIN-SUFFIX,bbs-api.mihoyo.com
-  - DOMAIN-SUFFIX,log-upload.mihoyo.com
-  - DOMAIN-SUFFIX,abtest-api-data.mihoyo.com
-  - DOMAIN-SUFFIX,public-data-api.mihoyo.com
-  - DOMAIN-SUFFIX,passport-api.mihoyo.com
-  - DOMAIN-SUFFIX,fp-it.fengkongcloud.com
-  - DOMAIN-SUFFIX,config.jpush.cn
-  - DOMAIN-SUFFIX,login.im.qcloud.com
-  - DOMAIN-SUFFIX,api-takumi.mihoyo.com
+  - DOMAIN-SUFFIX,fengkongcloud.com
+  - DOMAIN-SUFFIX,jpush.cn
+  - DOMAIN-SUFFIX,qcloud.com
   - DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN-SUFFIX,honkaiimpact3.com
   - DOMAIN-SUFFIX,honkaistarrail.com
