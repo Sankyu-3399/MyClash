@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,pandora.com
   - DOMAIN-SUFFIX,dig.bdurl.net
     #米游社
+  - DOMAIN-SUFFIX,mihoyo.com
   - DOMAIN-SUFFIX,bbs-api.mihoyo.com
   - DOMAIN-SUFFIX,log-upload.mihoyo.com
   - DOMAIN-SUFFIX,abtest-api-data.mihoyo.com
