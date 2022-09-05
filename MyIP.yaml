@@ -13,12 +13,6 @@ payload:
   - DOMAIN-SUFFIX,zjcdn.com
   - DOMAIN-SUFFIX,pandora.com
   - DOMAIN-SUFFIX,dig.bdurl.net
-    #测速
-  - DOMAIN-SUFFIX,fast.com
-  - DOMAIN-SUFFIX,ooklaserver.net
-  - DOMAIN-SUFFIX,speed.cloudflare.com
-  - DOMAIN-SUFFIX,speed.dler.io
-  - DOMAIN-KEYWORD,speedtest
     #IP测试
   - DOMAIN-SUFFIX,clientapi.ipip.net
   - DOMAIN-SUFFIX,v4.ipip.net
