@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,v6.ipip.net
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,api-ipv4.ip.sb
+  - DOMAIN-SUFFIX,ip.skk.moe
     #BiliBili
   - DOMAIN-SUFFIX,grpc.biliapi.net
   - DOMAIN-SUFFIX,api.bilibili.com
