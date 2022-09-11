@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,hoyo.link
   - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,hoyoverse.com
+  - DOMAIN-SUFFIX,yuanshen.com
   - DOMAIN-SUFFIX,n0vadesktop.com
   - DST-PORT,22101
   - DST-PORT,22102
