@@ -1,3 +1,4 @@
+
 payload:
     #字节跳动
   - DOMAIN-KEYWORD,aweme
@@ -13,3 +14,10 @@ payload:
   - DOMAIN-SUFFIX,zjcdn.com
   - DOMAIN-SUFFIX,pandora.com
   - DOMAIN-SUFFIX,dig.bdurl.net
+    #IP测试
+  - DOMAIN-SUFFIX,clientapi.ipip.net
+  - DOMAIN-SUFFIX,v4.ipip.net
+  - DOMAIN-SUFFIX,v6.ipip.net
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,api-ipv4.ip.sb
+  - DOMAIN-SUFFIX,ip.skk.moe
