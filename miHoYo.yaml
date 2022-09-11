@@ -1,6 +1,5 @@
 payload:
     #原神
-    
   - DOMAIN-SUFFIX,ioshost.qtlcdn.com
   - DOMAIN-SUFFIX,mihoyo.com
   - DOMAIN-SUFFIX,fengkongcloud.com
