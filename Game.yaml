@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,n0vadesktop.com
   - DST-PORT,22101
   - DST-PORT,22102
-    #枫叶之谷
+    #枫之谷
   - IP-CIDR,13.112.0.0/16
   - IP-CIDR,34.192.0.0/16
   - IP-CIDR,52.196.0.0/16
