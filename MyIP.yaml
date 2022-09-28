@@ -1,11 +1,22 @@
 payload:
     #字节跳动
   - DOMAIN-KEYWORD,aweme
-  - DOMAIN-KEYWORD,douyin
-  - DOMAIN-KEYWORD,zijie
+  - DOMAIN-KEYWORD,bdurl
+  - DOMAIN-KEYWORD,ecukwai
   - DOMAIN-KEYWORD,byte
+  - DOMAIN-KEYWORD,douyin
+  - DOMAIN-KEYWORD,pstatp
+  - DOMAIN-KEYWORD,etoote
+  - DOMAIN-KEYWORD,snssdk
+  - DOMAIN-KEYWORD,zijie
   - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,dig.bdurl.net
+  - DOMAIN-SUFFIX,ecukwai.com
+  - DOMAIN-SUFFIX,bytedance.com
+  - DOMAIN-SUFFIX,bytescm.com
+  - DOMAIN-SUFFIX,douyincdn.com
   - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,etoote.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,zjcdn.com
     #IP测试
