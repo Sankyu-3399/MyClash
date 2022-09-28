@@ -1,23 +1,13 @@
 payload:
     #字节跳动
   - DOMAIN-KEYWORD,aweme
-  - DOMAIN-KEYWORD,ixigua
-  - DOMAIN-KEYWORD,ixiguavideo
-  - DOMAIN-KEYWORD,toutiao
-  - DOMAIN-KEYWORD,toutiaoapi
-  - DOMAIN-KEYWORD,toutiaoimg
-  - DOMAIN-KEYWORD,toutiaostatic
-  - DOMAIN-KEYWORD,toutiaovod
   - DOMAIN-KEYWORD,douyin
   - DOMAIN-KEYWORD,zijie
-  - DOMAIN-KEYWORD,zijieapi
   - DOMAIN-KEYWORD,byte
-  - DOMAIN-KEYWORD,pstatp
-  - DOMAIN-KEYWORD,snssdk
-  - DOMAIN-KEYWORD,zjcdn
   - DOMAIN-SUFFIX,amemv.com
-  - DOMAIN-SUFFIX,pandora.com
-  - DOMAIN-SUFFIX,dig.bdurl.net
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,zjcdn.com
     #闲鱼
     #IP测试
   - DOMAIN-SUFFIX,clientapi.ipip.net
