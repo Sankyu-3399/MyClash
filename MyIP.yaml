@@ -9,6 +9,11 @@ payload:
   - DOMAIN-KEYWORD,etoote
   - DOMAIN-KEYWORD,snssdk
   - DOMAIN-KEYWORD,zijie
+  - DOMAIN-KEYWORD,toutiaoapi
+  - DOMAIN-KEYWORD,toutiaostatic
+  - DOMAIN-KEYWORD,ksyuncdn
+  - DOMAIN-KEYWORD,ecombdapi
+  - DOMAIN-KEYWORD,oceanengine
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,dig.bdurl.net
   - DOMAIN-SUFFIX,ecukwai.com
@@ -19,6 +24,11 @@ payload:
   - DOMAIN-SUFFIX,etoote.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,zjcdn.com
+  - DOMAIN-SUFFIX,toutiaoapi.com
+  - DOMAIN-SUFFIX,toutiaostatic.com
+  - DOMAIN-SUFFIX,ksyuncdn.com
+  - DOMAIN-SUFFIX,ecombdapi.com
+  - DOMAIN-SUFFIX,oceanengine.com
     #IP测试
   - DOMAIN-SUFFIX,clientapi.ipip.net
   - DOMAIN-SUFFIX,v4.ipip.net
