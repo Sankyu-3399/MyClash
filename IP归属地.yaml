@@ -10,12 +10,12 @@ payload:
   - DOMAIN-KEYWORD,normal-lq
   - DOMAIN-KEYWORD,search-quic-lq
   - DOMAIN-KEYWORD,search-lq
-  - DOMAIN-SUFFIX,toutiaoapi.com
-  - DOMAIN-SUFFIX,ixigua.com
   - DOMAIN-KEYWORD,aweme
   - DOMAIN-KEYWORD,douyin
   - DOMAIN-KEYWORD,zijie
   - DOMAIN-KEYWORD,byte
+  - DOMAIN-SUFFIX,toutiaoapi.com
+  - DOMAIN-SUFFIX,ixigua.com
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,snssdk.com
