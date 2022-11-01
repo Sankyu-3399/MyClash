@@ -10,34 +10,25 @@ payload:
   - DOMAIN-KEYWORD,normal-lq
   - DOMAIN-KEYWORD,search-quic-lq
   - DOMAIN-KEYWORD,search-lq
-  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,toutiaoapi.com
   - DOMAIN-SUFFIX,ixigua.com
-  - DOMAIN-SUFFIX,ixiguavideo.com
+  - DOMAIN-KEYWORD,aweme
+  - DOMAIN-KEYWORD,douyin
+  - DOMAIN-KEYWORD,zijie
+  - DOMAIN-KEYWORD,byte
+  - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,snssdk.com
-  - DOMAIN-SUFFIX,toutiao.com
-  - DOMAIN-SUFFIX,bdurl.net
-  - DOMAIN-SUFFIX,ecukwai.com
-  - DOMAIN-SUFFIX,bytedance.com
-  - DOMAIN-SUFFIX,bytescm.com
-  - DOMAIN-SUFFIX,douyincdn.com
-  - DOMAIN-SUFFIX,etoote.com
   - DOMAIN-SUFFIX,zjcdn.com
-  - DOMAIN-SUFFIX,toutiaoapi.com
-  - DOMAIN-SUFFIX,toutiaostatic.com
-  - DOMAIN-SUFFIX,ksyuncdn.com
-  - DOMAIN-SUFFIX,ecombdapi.com
-  - DOMAIN-SUFFIX,oceanengine.com
     #IP测试
   - DOMAIN,ipip.net
   - DOMAIN,v4.ipip.net
   - DOMAIN,v6.ipip.net
-  - DOMAIN,api.ipify.org
-  - DOMAIN,api64.ipify.org
-  - DOMAIN,ip.sb
-  - DOMAIN,ipv4.ip.sb
-  - DOMAIN,ipv6.ip.sb
-  - DOMAIN,api.ip.sb
+  - DOMAIN,clientapi.ipip.net
+  - DOMAIN-KEYWORD,ipip.net
+  - DOMAIN-KEYWORD,v4.ipip.net
+  - DOMAIN-KEYWORD,v6.ipip.net
+  - DOMAIN-KEYWORD,clientapi.ipip.net
     #哔哩哔哩
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,biliapi.com 
