@@ -1,4 +1,6 @@
 payload:
+  #机场
+  - DOMAIN-SUFFIX,uuu.glass
   #Wechat
   - DOMAIN-SUFFIX,sgshort.wechat.com
   - DOMAIN-SUFFIX,dns.weixin.qq.com
