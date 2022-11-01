@@ -19,9 +19,15 @@ payload:
   - DOMAIN-SUFFIX,ecombdapi.com
   - DOMAIN-SUFFIX,oceanengine.com
     #IP测试
-  - DOMAIN-SUFFIX,ipip.net
-  - DOMAIN-KEYWORD,ipify.org
-  - DOMAIN-KEYWORD,ip.sb
+  - DOMAIN,ipip.net
+  - DOMAIN,v4.ipip.net
+  - DOMAIN,v6.ipip.net
+  - DOMAIN,api.ipify.org
+  - DOMAIN,api64.ipify.org
+  - DOMAIN,ip.sb
+  - DOMAIN,ipv4.ip.sb
+  - DOMAIN,ipv6.ip.sb
+  - DOMAIN,api.ip.sb
     #BiliBili
   - DOMAIN-SUFFIX,grpc.biliapi.net
   - DOMAIN-SUFFIX,api.bilibili.com
