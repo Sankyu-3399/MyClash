@@ -1,0 +1,11 @@
+payload:
+    #IP测试
+  - DOMAIN,ipip.net
+  - DOMAIN,v4.ipip.net
+  - DOMAIN,v6.ipip.net
+  - DOMAIN,api.ipify.org
+  - DOMAIN,api64.ipify.org
+  - DOMAIN,ip.sb
+  - DOMAIN,ipv4.ip.sb
+  - DOMAIN,ipv6.ip.sb
+  - DOMAIN,api.ip.sb
